@@ -1,0 +1,28 @@
+.title-pg{
+    font-weight: 2em;
+    font-weight: 900;
+    text-transform: uppercase;
+}
+
+.edit{
+ background: #242063;
+}
+
+.delete{
+ background: #b12020;
+}
+
+.actions{
+    padding: 8fx;
+    text-decoration: none;
+    font-size: 1em;
+    margin: 0px 2px;
+}
+
+.actions:hover{
+    text-decoration: none;
+}
+
+.btn-add{
+    margin-left: 10px;
+}
